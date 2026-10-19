@@ -1,0 +1,42 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz"
+# Canada public/free streams - CA2 EPG IDs matched where confidently identifiable
+#EXTINF:-1 tvg-id="CBC.Toronto.HD.ca2" tvg-name="CBC Toronto" group-title="Canada - English",CBC Toronto
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+#EXTINF:-1 tvg-id="CTV.Toronto.HD.ca2" tvg-name="CTV Toronto" group-title="Canada - English",CTV Toronto
+http://stream.cammonitorplus.net/1712/index.m3u8
+#EXTINF:-1 tvg-id="CTV.Two.-.Toronto.ca2" tvg-name="CTV 2" group-title="Canada - English",CTV 2
+http://stream.cammonitorplus.net/1731/index.m3u8
+#EXTINF:-1 tvg-id="NTV.HD.ca2" tvg-name="NTV" group-title="Canada - English",NTV
+http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/223012
+#EXTINF:-1 tvg-id="CHCH-DT.ca2" tvg-name="CHCH" group-title="Canada - English",CHCH
+http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/222841
+#EXTINF:-1 tvg-id="CBC.News.Network.HD.ca2" tvg-name="CBC News" group-title="Canada - English",CBC News
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-id="CTV.News.Channel.HD.ca2" tvg-name="CTV News" group-title="Canada - English",CTV News
+https://www.youtube.com/c/CTVNews/live
+#EXTINF:-1 tvg-id="Global.Toronto.HD.ca2" tvg-name="Global News" group-title="Canada - English",Global News
+https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
+#EXTINF:-1 tvg-id="Global.Saskatoon.ca2" tvg-name="Global News Saskatoon" group-title="Canada - English",Global News Saskatoon
+https://jmp2.uk/plu-62cc00359cb58900088dc840.m3u8
+#EXTINF:-1 tvg-id="Global.Winnipeg.ca2" tvg-name="Global News Winnipeg" group-title="Canada - English",Global News Winnipeg
+https://jmp2.uk/plu-62cc0120880c890007191016.m3u8
+#EXTINF:-1 tvg-id="[CPAC].Cable.Public.Affairs.Channel.HD.ca2" tvg-name="CPAC (EN)" group-title="Canada - English",CPAC (EN)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-id="ICI.RDI.HD.ca2" tvg-name="ICI RDI" group-title="Canada - French",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="CBAFT-DT.ca2" tvg-name="ICI Télé HD" group-title="Canada - French",ICI Télé HD
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
+#EXTINF:-1 tvg-id="TVA.(Pacific).ca2" tvg-name="TVA" group-title="Canada - French",TVA
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+#EXTINF:-1 tvg-id="Noovo.ca2" tvg-name="Noovo" group-title="Canada - French",Noovo
+https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
+#EXTINF:-1 tvg-id="CIVM-DT.ca2" tvg-name="Télé Québec" group-title="Canada - French",Télé Québec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-id="Savoir.média.ca2" tvg-name="Savoir Média" group-title="Canada - French",Savoir Média
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="[CPACF].Cable.Public.Affairs.Channel.(French).ca2" tvg-name="CPAC (FR)" group-title="Canada - French",CPAC (FR)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
+#EXTINF:-1 tvg-id="CBFT-DT.ca2" tvg-name="ICI Montreal" group-title="Canada - French",ICI Montreal
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-id="Toronto360.tv" tvg-name="Toronto 360 TV" group-title="Canada - Local",Toronto 360 TV
+http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
